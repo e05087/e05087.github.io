@@ -25,12 +25,32 @@ background-color:#f6f6f6 !important;
 {
 font-size:22px;
 font-weight:600;
+  text-align:center;
+}
+.boards tbody
+{
+    width: 100%;
+    max-width: 100%;
+    display: table;
+}
+.boards tbody th
+{
+border:none;
+border-bottom:1px solid #e9ebec;
 }
 .doc
 {
 font-size:17px
 }
+#lb
+{
+    width: 43%;
+    text-align: center;
+    height: 300px;
+    float: right;
+}
 .hbox{
+  display:inline-block;
        background-color: #ffffff;
     border: solid 0.6px #dadada;
     border-radius: 5px;
