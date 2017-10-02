@@ -35,8 +35,8 @@ font-weight:600;
 }
 .boards tbody th
 {
-border:none;
-border-bottom:1px solid #e9ebec;
+border:none !important;
+border-bottom:1px solid #e9ebec !important;
 }
 .doc
 {
