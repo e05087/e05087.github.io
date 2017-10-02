@@ -11,11 +11,15 @@ html {
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
+body
+{
+background-color:#f6f6f6 !important;
+}
 .main-content
 {
 background-color:#f6f6f6 !important;
   width:100% !important;
-  max-width:100% !important;
+  max-width:75% !important;
 }
 .h2
 {
